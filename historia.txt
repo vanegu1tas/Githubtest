@@ -5,3 +5,5 @@ Daniel Vanegas tiene 50 años y nacio en Neiva, Huila.
 Hoy hablaremos de su historia.
 
 Le gusta mucho el fútbol y juega todos los fines de semana.
+
+Estoy agregando info de su familia.
